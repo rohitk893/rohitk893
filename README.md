@@ -7,4 +7,4 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rohitk893&theme=github-light&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohitk893&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=rohitk893&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
