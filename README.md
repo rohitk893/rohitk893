@@ -6,7 +6,4 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -->
-
-![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=rohitk893)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rohitk893&theme=github-light&hide_border=true)
