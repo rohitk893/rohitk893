@@ -7,6 +7,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -->
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitk893&layout=compact&theme=bluefy&hide_border=true)
+![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=rohitk893)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rohitk893&theme=github-light&hide_border=true)
